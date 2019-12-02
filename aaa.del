@@ -1,0 +1,4 @@
+
+select * FROM table_xxx
+
+where u_id = "100001"
